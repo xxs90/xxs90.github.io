@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 130
 
 title: Contact
 subtitle:
@@ -52,6 +52,6 @@ content:
     #   name: Zoom Me
     #   link: 'https://zoom.com'
 
-design:
-  columns: '2'
+# design:
+#   columns: '2'
 ---

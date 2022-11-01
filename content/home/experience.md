@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Design Engineer, Internship
     company: DJI
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.robomaster.com/en-US'
+    # company_logo: dji
     location: Shenzhen, China
     date_start: '2019-06-01'
     date_end: '2019-08-30'
