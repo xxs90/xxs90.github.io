@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: guanang.0228@gmail.com
+  email: su.gu@northeastern.edu
   phone: (540)-998-1432
   address:
     # street: 450 Serra Mall
@@ -52,6 +52,6 @@ content:
     #   name: Zoom Me
     #   link: 'https://zoom.com'
 
-# design:
-#   columns: '2'
+design:
+  columns: '2'
 ---

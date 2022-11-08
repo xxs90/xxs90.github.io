@@ -49,8 +49,8 @@ featured: true
 # - name: Project Page
 #   url: https://zxp-s-works.github.io/equivariant_grasp_site/
 
-# url_pdf: ''
-# url_code: 'https://github.com/SaulBatman/equi_close_loop/tree/fcn_bc'
+url_pdf: 'https://arxiv.org/pdf/2211.00194.pdf'
+# url_code: 'https://arxiv.org/pdf/2211.00194.pdf'
 # url_dataset: ''
 # url_poster: ''
 url_project: 'https://saulbatman.github.io/project/seil/'

@@ -20,7 +20,8 @@ bio: My research interests include robotics in learning of manipulation.
 interests:
   - Robotics
   - Reinforcement Learning
-  - Biomedical Robotics
+  - Computer Vision
+  - Biomedical
 
 # Education to show in About widget
 education:
@@ -38,21 +39,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/guanang-su-16851a131/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/xxs90
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GuanangS
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/xxs90
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guanang-su-16851a131/
+  - icon: google-scholar # graduation-capAlternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=pehz9gMAAAAJ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

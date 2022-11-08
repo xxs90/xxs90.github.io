@@ -39,7 +39,7 @@ content:
       tag: navigation
     - name: Perception
       tag: perception
-    
+      
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

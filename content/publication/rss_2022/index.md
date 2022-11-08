@@ -31,7 +31,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *RSS, New York City, New York, USA, 2022* & (*ICRA 2022 Workshop on Scaling Robot Learning, Spotlight)* 
-publication_short: In *RSS 2022* (Also presented in *ICRA 2022 Workshop*)
+publication_short: In *RSS 2022* (& *ICRA 2022 Workshop*)
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -48,7 +48,7 @@ featured: true
 # - name: Project Page
 #   url: https://zxp-s-works.github.io/equivariant_grasp_site/
 
-url_pdf: 'https://arxiv.org/abs/2202.09468'
+url_pdf: 'https://arxiv.org/pdf/2202.09468.pdf'
 url_code: 'https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning'
 # url_dataset: ''
 # url_poster: ''

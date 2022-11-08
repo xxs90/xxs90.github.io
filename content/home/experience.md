@@ -42,19 +42,20 @@ experience:
     description: TA for CS5180/4180 Reinforcement Learning class by Prof. Chris Amato.
     
   - title: Design Engineer, Internship
-    company: DJI
+    company: Robomaster, DJI
     company_url: 'https://www.robomaster.com/en-US'
     # company_logo: dji
     location: Shenzhen, China
     date_start: '2019-06-01'
     date_end: '2019-08-30'
-    description: |2-
-      Designed a new type of gaming robot according to new rules of the 2020 DJI Robomaster competition. 
+    description: >-
+      * Designed a new type of gaming robot according to new rules of the 2020 Robomaster competition, which is a dart system flying robot, aiming to achieve automotive targeting and shooting at a distance of 20-30m. 
+
+      * Applied stochastic control system theories of UAVs and fixed-wing aircraft to the robot.
+
+      * Applied Creo, SolidWorks, and Flow simulation to adjust robots’ airfoil and suppled fringes based on aerodynamic design. 
       
-      Learned the stochastic control system theories of UAVs and fixed-wing aircraft. 
-      Designed the dart system flying robot, aiming to achieve automotive targeting and shooting at a distance of 20-30m. 
-      
-      Applied Creo, SolidWorks, and Flow simulation to adjust robots’ airfoil and suppled fringes based on aerodynamic design. Developed basic embedded framework, programming in C language with Keil’s embedded development tool.
+      * Developed embedded framework, programming in C language with Keil’s embedded development tool.
   
 
 design:

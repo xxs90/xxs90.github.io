@@ -4,7 +4,7 @@ summary: Learn the mapping between two unpaired images and apply the image trans
 tags:
   - learning
   - CV
-date: '2022-11-01'
+date: '2021-11-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
