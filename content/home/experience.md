@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
 title: Experience
 subtitle:
@@ -30,7 +30,7 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-      Supervised by Prof. Robert Platt.
+      Advised by Prof. Robert Platt.
 
 
   - title: Teaching Assistant
