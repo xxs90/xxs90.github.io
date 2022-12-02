@@ -28,7 +28,7 @@ education:
   courses:
     - course: MS in Robotics, Computer Science
       institution: Northeastern University
-      year: 2023
+      year: 2023(expected)
     - course: BS in Controls, Robotics, and Autonomy
       # course: minor in Mathematics
       institution: Virginia Polytechnic Institute and State University
@@ -69,10 +69,10 @@ email: 'guanang.0228@gmail.com'
 highlight_name: true
 ---
 
-I am a M.S. Robotics student at Northeastern University. Before, I was in Virginia Tech majored in Controls, Robotics, and Autonomy and minor in Biomedical Engineering and Mathematics.
+I am an M.S. Robotics student at Northeastern University. Before that, I majored in Controls, Robotics, and Autonomy was at Virginia Tech and minored in Biomedical Engineering and Mathematics.
 
-I am really passion in topic of robotics, like manipulation, planning, perception and etc. My currect research topic is in reinforcement learning and manipulation. And I have more than three years experience in robotics design in mechanical and embedded programming.
+I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric. **I am looking for a Ph.D. position in Fall 2023 in robot and Artificial Intelligence.**
 
-Wish to become a robot engineer in the biomedical field!
+I have more than three years of experience in robotics design in mechanical, embedded programming and software development. I wish to become a robot engineer in the biomedical field!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
