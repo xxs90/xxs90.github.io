@@ -9,9 +9,9 @@ superuser: true
 role: Student in Northeastern University
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Helping Hands Lab
-    url: https://www2.ccs.neu.edu/research/helpinghands/
+# organizations:
+#   - name: Helping Hands Lab
+#     url: https://www2.ccs.neu.edu/research/helpinghands/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics in learning of manipulation.
@@ -20,16 +20,16 @@ bio: My research interests include robotics in learning of manipulation.
 interests:
   - Robotics
   - Reinforcement Learning
-  - Computer Vision
+  - Artificial Intelligence
   - Biomedical
 
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Robotics, Computer Science
+    - course: MS in Robotics (Computer Science)
       institution: Northeastern University
-      year: 2023(expected)
-    - course: BS in Controls, Robotics, and Autonomy
+      year: 2023
+    - course: BS in Computer Engineering (Controls, Robotics, and Autonomy)
       # course: minor in Mathematics
       institution: Virginia Polytechnic Institute and State University
       year: 2021
@@ -69,10 +69,10 @@ email: 'guanang.0228@gmail.com'
 highlight_name: true
 ---
 
-I am an M.S. Robotics student at Northeastern University. Before that, I majored in Controls, Robotics, and Autonomy was at Virginia Tech and minored in Biomedical Engineering and Mathematics.
+I am currently an M.S. Robotics student at [Northeastern University](https://www.northeastern.edu/), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/people/). Before that, I was majored in Controls, Robotics, and Autonomy at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics and Biomedical Engineering.
 
 I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric. **I am looking for a Ph.D. position in Fall 2023 in robot and Artificial Intelligence.**
 
-I have more than three years of experience in robotics design in mechanical, embedded programming and software development. I wish to become a robot engineer in the biomedical field!
+I have more than three years of experience in robotics design in mechanical, embedded programming and software development. Willing to be a robot engineer in the biomedical field!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

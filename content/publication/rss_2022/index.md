@@ -30,29 +30,29 @@ date: '2022-07-27'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *RSS, New York City, New York, USA, 2022* & (*ICRA 2022 Workshop on Scaling Robot Learning, Spotlight)* 
-publication_short: In *RSS 2022* (also in *ICRA 2022 Workshop* & *RLDM 2022* Workshop)
+publication: In ***Robotics Science and Systems 2022***, New York City, New York, USA & (***Workshop on Scaling Robot Learning, ICRA 2022*** & ***RLDM 2022***) 
+publication_short: In **RSS 2022** (also presented in ***ICRA 2022 Workshop*** & ***RLDM 2022***)
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: In planar grasp detection, the goal is to learn a function from an image of a scene onto a set of feasible grasp poses in SE(2). In this paper, we recognize that the optimal grasp function is SE(2)-equivariant and can be modeled using an equivariant convolutional neural network. As a result, we are able to significantly improve the sample efficiency of grasp learning, obtaining a good approximation of the grasp function after only 600 grasp attempts. This is few enough that we can learn to grasp completely on a physical robot in about 1.5 hours. **Project page with more details at https://zxp-s-works.github.io/equivariant_grasp_site/.**
 
-tags: []
+# summary: 
+
+tags: [manipulation, learning]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Project Page
-#   url: https://zxp-s-works.github.io/equivariant_grasp_site/
+links:
+- name: Project Page
+  url: https://zxp-s-works.github.io/equivariant_grasp_site/
 
 url_pdf: 'https://arxiv.org/pdf/2202.09468.pdf'
 url_code: 'https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning'
 # url_dataset: ''
 # url_poster: ''
-url_project: 'https://zxp-s-works.github.io/equivariant_grasp_site/'
+# url_project: ''
 # url_slides: ''
 # url_source: ''
 url_video: 'https://www.youtube.com/watch?v=0jaHpz3KQ7I&t=1s'

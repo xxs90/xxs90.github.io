@@ -28,11 +28,11 @@ content:
     - name: All
       tag: '*'
     - name: Robotics
-      tag: robo
+      tag: robotics
     - name: Learning
       tag: learning
     - name: Computer Vision
-      tag: CV
+      tag: vision
     - name: Manipulation
       tag: manipulation
     - name: Navigation

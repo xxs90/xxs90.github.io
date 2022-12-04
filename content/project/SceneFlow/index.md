@@ -2,7 +2,8 @@
 title: Scene Flow Estimation for Autonomous Driving
 summary: 
 tags:
-  - cv
+  - vision
+  - learning
 date: '2022-10-01'
 
 # Optional external URL for project (replaces project detail page).

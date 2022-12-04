@@ -31,29 +31,29 @@ date: '2022-09-01'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Robotics and Automation, ICRA 2023*
-publication_short: CoRL 2022 Workshop. (Submitted to *ICRA 2023*)
+publication: Under review. (Submitted to International Conference on Robotics and Automation 2023) (also presented in ***Workshop on Sim-to-Real Robot Learning**, CoRL 2022*)
+publication_short: Under review. (Submitted to ICRA 2023) (also presented in ***CoRL 2022 Workshop***) 
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In robotic manipulation, acquiring samples is extremely expensive because it often requires interacting with the real world. Traditional image-level data augmentation has shown the potential to improve sample efficiency in various machine learning tasks. However, image-level data augmentation is insufficient for an imitation learning agent to learn good manipulation policies in a reasonable amount of demonstrations. We propose Simulation-augmented Equivariant Imitation Learning (SEIL), a method that combines a novel data augmentation strategy of supplementing expert trajectories with simulated transitions and an equivariant model that exploits the $O(2)$ symmetry in robotic manipulation. Experimental evaluations demonstrate that our method can learn non-trivial manipulation tasks within ten demonstrations and outperforms the baselines with a significant margin. **Project page with more details at https://saulbatman.github.io/project/seil/.**
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [manipulation, learning]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Project Page
-#   url: https://zxp-s-works.github.io/equivariant_grasp_site/
+links:
+- name: Project Page
+  url: 'https://saulbatman.github.io/project/seil/'
 
 url_pdf: 'https://arxiv.org/pdf/2211.00194.pdf'
 # url_code: 'https://arxiv.org/pdf/2211.00194.pdf'
 # url_dataset: ''
 # url_poster: ''
-url_project: 'https://saulbatman.github.io/project/seil/'
+# url_project: ''
 # url_slides: ''
 # url_source: ''
 url_video: 'https://www.youtube.com/watch?v=UHUmq-cOMh4'

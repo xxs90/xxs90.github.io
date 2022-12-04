@@ -3,7 +3,7 @@ title: SharkPulse - Shark Image Identification, Dataset Building, Machine Learni
 summary: Learn the mapping between two unpaired images and apply the image translation in between. 
 tags:
   - learning
-  - CV
+  - vision
 date: '2021-11-01'
 
 # Optional external URL for project (replaces project detail page).
