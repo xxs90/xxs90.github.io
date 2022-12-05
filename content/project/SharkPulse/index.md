@@ -19,8 +19,8 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/sharkResearch/shark_species_classfication'
-url_pdf: ''
-url_slides: ''
+url_pdf: 'uploads/Shark_final_report.pdf'
+url_slides: 'uploads/Shark_final_presentation.pdf'
 url_video: ''
 
 # Slides (optional).
@@ -28,6 +28,6 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
