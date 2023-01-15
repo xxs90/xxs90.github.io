@@ -17,7 +17,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/xxs90/Robotics_SensingNavigation'
+url_code: 'https://gitlab.com/xxs000/eece5554/-/tree/main/final_project'
 url_pdf: ''
 url_slides: 'uploads/RSN_final_presentation.pdf'
 url_video: ''
