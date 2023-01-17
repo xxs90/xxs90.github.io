@@ -14,7 +14,7 @@ role: Student in Northeastern University
 #     url: https://www2.ccs.neu.edu/research/helpinghands/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics in learning of manipulation.
+bio: I am a master student in major of **robotics** and computer science. Interested in topics of **learning**, **vision**, **biomedical robots**.
 
 # Interests to show in About widget
 interests:
@@ -73,6 +73,6 @@ I am currently an M.S. Robotics student at [Northeastern University](https://www
 
 I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric. **I am looking for a Ph.D. position in Fall 2023 in robot and Artificial Intelligence.**
 
-I have more than three years of experience in robotics design in mechanical, embedded programming and software development. Willing to be a robot engineer in the biomedical field!
+I have three years experience in robotics mechanical design, embedded programming and software development. Willing to be a robot engineer in the biomedical field!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

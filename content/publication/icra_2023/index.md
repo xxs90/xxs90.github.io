@@ -28,11 +28,11 @@ date: '2022-09-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review. (Submitted to International Conference on Robotics and Automation 2023) (also presented in ***Workshop on Sim-to-Real Robot Learning**, CoRL 2022*)
-publication_short: Under review. (Submitted to ICRA 2023) (also presented in ***CoRL 2022 Workshop***) 
+publication: In **2023 IEEE International Conference on Robotics and Automation**, ExCeL London, UK & (***Workshop on Sim-to-Real Robot Learning, CoRL 2022***)
+publication_short: In **ICRA 2023** (also presented in ***CoRL 2022 Workshop***) 
 
 abstract: In robotic manipulation, acquiring samples is extremely expensive because it often requires interacting with the real world. Traditional image-level data augmentation has shown the potential to improve sample efficiency in various machine learning tasks. However, image-level data augmentation is insufficient for an imitation learning agent to learn good manipulation policies in a reasonable amount of demonstrations. We propose Simulation-augmented Equivariant Imitation Learning (SEIL), a method that combines a novel data augmentation strategy of supplementing expert trajectories with simulated transitions and an equivariant model that exploits the $O(2)$ symmetry in robotic manipulation. Experimental evaluations demonstrate that our method can learn non-trivial manipulation tasks within ten demonstrations and outperforms the baselines with a significant margin. **Project page with more details at https://saulbatman.github.io/project/seil/.**
 
