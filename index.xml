@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guanang Su</title><link>https://xxs90.github.io/</link><atom:link href="https://xxs90.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Guanang Su</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://xxs90.github.io/media/icon_hu863ce41a11bba72bf90220af6070d8d2_59662_512x512_fill_lanczos_center_3.png</url><title>Guanang Su</title><link>https://xxs90.github.io/</link></image><item><title>Self Introduction</title><link>https://xxs90.github.io/talk/self-introduction/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/talk/self-introduction/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guanang Su</title><link>https://xxs90.github.io/</link><atom:link href="https://xxs90.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Guanang Su</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://xxs90.github.io/media/icon_hu863ce41a11bba72bf90220af6070d8d2_59662_512x512_fill_lanczos_center_3.png</url><title>Guanang Su</title><link>https://xxs90.github.io/</link></image><item><title>SEIL: Simulation-augmented Equivariant Imitation Learning</title><link>https://xxs90.github.io/publication/icra_2023/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/publication/icra_2023/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Self Introduction</title><link>https://xxs90.github.io/talk/self-introduction/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/talk/self-introduction/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -10,17 +20,7 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Scene Flow Estimation for Autonomous Driving</title><link>https://xxs90.github.io/project/sceneflow/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/project/sceneflow/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>For navigation in robotics fields, especially autonomous driving tasks, accurate estimation of motion and 3D dynamic scene understanding are important for perception. Scene flow, a joint prediction method that comes up with the optical flow and stereo matching could faster solve the task and improves generalization by leveraging domain-specific information and avoiding bias.&lt;/p>
 &lt;p>For a traditional motion tracking pipeline, inputs the 3D data to do an object detection segmentation with segmenting into unique objects and then apply for the object tracking individually. Therefore, a segmentation error would lead to incorrect estimation in the future motion prediction for each object. Rather than directly applying to the data, scene flow estimation could compute a 3D motion vector for each point in the scene and remove reliance on the object.&lt;/p>
-&lt;p>This project proposed using point cloud data rather than directly estimating the 3D motion field from RGB images, followed by recent research.&lt;/p></description></item><item><title>SEIL: Simulation-augmented Equivariant Imitation Learning</title><link>https://xxs90.github.io/publication/icra_2023/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/publication/icra_2023/</guid><description>&lt;!-- &lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Sample Efficient Grasp Learning Using Equivariant Models</title><link>https://xxs90.github.io/publication/rss_2022/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/publication/rss_2022/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;p>This project proposed using point cloud data rather than directly estimating the 3D motion field from RGB images, followed by recent research.&lt;/p></description></item><item><title>Sample Efficient Grasp Learning Using Equivariant Models</title><link>https://xxs90.github.io/publication/rss_2022/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://xxs90.github.io/publication/rss_2022/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
