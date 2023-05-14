@@ -26,10 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Robotics (Computer Science)
+    - course: Ph.D. in Computer Science
+      institution: University of Minnesota, Twin City
+      year: 
+    - course: M.S. in Robotics
       institution: Northeastern University
       year: 2023
-    - course: BS in Computer Engineering (Controls, Robotics, and Autonomy)
+    - course: B.S. in Computer Engineering (Controls, Robotics, and Autonomy)
       # course: minor in Mathematics
       institution: Virginia Polytechnic Institute and State University
       year: 2021
@@ -69,10 +72,10 @@ email: 'guanang.0228@gmail.com'
 highlight_name: true
 ---
 
-I am currently an M.S. Robotics student at [Northeastern University](https://www.northeastern.edu/), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/people/). Before that, I was majored in Controls, Robotics, and Autonomy at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics and Biomedical Engineering.
+I am an M.S. Robotics student at [Northeastern University](https://www.northeastern.edu/), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/people/). Before that, I was majored in Controls, Robotics, and Autonomy at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics and Biomedical Engineering. **I will join [Robotics:Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/) as a Ph.D. researcher starting Fall 2023.**
 
-I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric. **I am looking for a Ph.D. position in Fall 2023 in robot and Artificial Intelligence.**
+I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric.
 
-I have three years experience in robotics mechanical design, embedded programming and software development. Willing to be a robot engineer in the biomedical field!
+I have more than three years experience in robotics mechanical design, embedded programming and software development. Willing to be a robotic scientist!
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

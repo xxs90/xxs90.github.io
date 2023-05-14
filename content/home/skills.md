@@ -19,12 +19,16 @@ feature:
   - icon: "robot"
     icon_pack: fas
     name: Robotics
-  - icon: "🎨"
-    icon_pack: emoji
+    description: "exploring - -> starting stage"
+  - icon: "paintbrush"
+    icon_pack: fas
     name: Paint
-  - icon: "🏂"
-    icon_pack: emoji
-    name: Snowboard
+    description: "80%"
+  - icon: "music"
+    icon_pack: fas
+    name: Guitar
+    description: "loading - -> 30%"
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
