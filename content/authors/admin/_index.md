@@ -6,7 +6,7 @@ title: GUANANG SU
 superuser: true
 
 # Role/position/tagline
-role: Student in Northeastern University
+role: Student in University of Minnesota
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -14,11 +14,12 @@ role: Student in Northeastern University
 #     url: https://www2.ccs.neu.edu/research/helpinghands/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a master student in major of **robotics** and computer science. Interested in topics of **learning**, **vision**, **biomedical robots**.
+bio: I am a Ph.D. student in major of Computer Science. Interested in topics of *robotics*, **learning**, **vision**, **biomedical robots**.
 
 # Interests to show in About widget
 interests:
   - Robotics
+  - Imitation Learning
   - Reinforcement Learning
   - Artificial Intelligence
   - Biomedical
@@ -32,7 +33,7 @@ education:
     - course: M.S. in Robotics
       institution: Northeastern University
       year: 2023
-    - course: B.S. in Computer Engineering (Controls, Robotics, and Autonomy)
+    - course: B.S. in Computer Engineering 
       # course: minor in Mathematics
       institution: Virginia Polytechnic Institute and State University
       year: 2021
@@ -72,9 +73,9 @@ email: 'guanang.0228@gmail.com'
 highlight_name: true
 ---
 
-I am an M.S. Robotics student at [Northeastern University](https://www.northeastern.edu/), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/people/). Before that, I was majored in Controls, Robotics, and Autonomy at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics and Biomedical Engineering. **I will join [Robotics:Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/) as a Ph.D. researcher starting Fall 2023.**
+I am a first year Ph.D. student in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/). I work in [Robotics:Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/) with Professor [Karthik Desingh](https://karthikdesingh.com/). I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric.
 
-I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric.
+Before that, I worked as a research assistant in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). Prior to my Ph.D. study, I received my Master's degree in Robotics from [Northeastern University](https://www.northeastern.edu/) and my Bacholor's degree in Computer Engineering (Controls, Robotics, and Autonomy) at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics and Biomedical Engineering.  
 
 I have more than three years experience in robotics mechanical design, embedded programming and software development. Willing to be a robotic scientist!
 

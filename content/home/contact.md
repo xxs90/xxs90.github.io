@@ -25,13 +25,13 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: su.gu@northeastern.edu
+  email: guanang.0228@gmail.com
   phone: (540)-998-1432
   address:
     # street: 450 Serra Mall
-    city: Boston
-    region: MA
-    postcode: '02215'
+    city: Minneapolis
+    region: MN
+    postcode: '55414'
     country: United States
     country_code: US
   # coordinates:
