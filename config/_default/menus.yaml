@@ -17,7 +17,7 @@ main:
     url: './project'
     weight: 30
   - name: Posts
-    url: './event'
+    url: './post'
     weight: 40
   - name: Contact
     url: '#contact'
