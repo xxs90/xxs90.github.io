@@ -1,9 +1,9 @@
 ---
 title: Diffusion Model & Policy
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Diffusion policy.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Diffusion policy.
 
 # Link this post with a project
 projects: []
@@ -32,11 +32,10 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - 开源
+  - manipulation
 
 categories:
-  - blog
+  - academic
 ---
 
 ## Overview

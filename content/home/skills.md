@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: "robot"
-    icon_pack: fas
+  - icon: ":mechanical_arm:"
+    icon_pack: emoji
     name: Robotics
-    description: "exploring - -> starting stage"
-  - icon: "paintbrush"
-    icon_pack: fas
-    name: Paint
-    description: "80%"
-  - icon: "music"
-    icon_pack: fas
-    name: Guitar
-    description: "loading - -> 30%"
+    description: "Willing be a roboticist!"
+  - icon: ":art:"
+    icon_pack: emoji
+    name: Paint / DIY
+    description: "Enjoy building LEGO / puzzles and painting."
+  - icon: ":badminton:"
+    icon_pack: emoji
+    name: Sports
+    description: "Try all, play all."
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

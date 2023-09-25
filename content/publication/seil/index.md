@@ -50,7 +50,7 @@ links:
   url: 'https://saulbatman.github.io/project/seil/'
 
 url_pdf: 'https://arxiv.org/pdf/2211.00194.pdf'
-url_code: 'https://github.com/SaulBatman/equi_close_loop/tree/fcn_bc'
+url_code: 'https://github.com/SaulBatman/SEIL'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''

@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Blogs
 subtitle:
 
 content:
@@ -33,6 +33,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: 5
+  view: masonry
   columns: '2'
 ---

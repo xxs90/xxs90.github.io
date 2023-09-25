@@ -43,18 +43,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guanang-su-16851a131/
   - icon: github
     icon_pack: fab
     link: https://github.com/xxs90
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/guanang-su-16851a131/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GuanangS
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:su000265@umn.edu'
   - icon: google-scholar # graduation-capAlternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=pehz9gMAAAAJ
@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'guanang.0228@gmail.com'
+# email: 'guanang.0228@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -75,8 +75,8 @@ highlight_name: true
 
 I am a first year Ph.D. student in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/). I work in [Robotics:Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/) with Professor [Karthik Desingh](https://karthikdesingh.com/). I am passionate about robotics, like vision, manipulation, planning, and perception. My current research topic is robot learning and manipulation with equivariant symmetric.
 
-Before that, I worked as a research assistant in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). Prior to my Ph.D. study, I received my Master's degree in Robotics from [Northeastern University](https://www.northeastern.edu/) and my Bacholor's degree in Computer Engineering (Controls, Robotics, and Autonomy) at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics and Biomedical Engineering.  
+Before that, I worked as a research assistant in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). Prior to my Ph.D. study, I received my Master's degree in Robotics from [Northeastern University](https://www.northeastern.edu/) and my Bacholor's degree in Controls, Robotics, and Autonomy at [Virginia Tech](https://www.vt.edu/) and minored in Mathematics.  
 
-I have more than three years experience in robotics mechanical design, embedded programming and software development. Willing to be a robotic scientist!
+Willing to be a robotic scientist!
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
